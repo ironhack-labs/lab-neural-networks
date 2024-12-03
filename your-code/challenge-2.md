@@ -1,4 +1,5 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+![Ironhack logo](https://i.img
+ur.com/1QgrNNw.png)
 
 # Challenge 2: Tensorflow Hyperparameter Tuning
 
@@ -26,3 +27,4 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
