@@ -12,9 +12,11 @@ From the lesson and Challenge 1 you should have noticed that understanding the c
 
 After that, complete [this exercise](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) on tuning the Tensorflow hyperpamameters in the [Tensorflow Playground](https://playground.tensorflow.org/).
 
+
 Finally, using what you have learned, try tuning the hyperparameters for the spiral dataset in order to reach training and test loss <0.05 as shown in the following:
 
 ![spiral output](challenge-2.png)
+
 
 After you're done, submit a screenshot of your Playground including the following information:
 
@@ -22,6 +24,7 @@ After you're done, submit a screenshot of your Playground including the followin
 * Learning rate
 * Activation function
 * Features included
+
 * Hidden layers and neurons
 * Test and training loss
 
