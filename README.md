@@ -25,7 +25,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 ## Resources
 
 - [Tic Tac Toe on Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
-- [Tic Tac Toe Endgame Dataset](https://datahub.io/machine-learning/tic-tac-toe-endgame)
+- [Tic Tac Toe Endgame Dataset](https://datahub.io/machine-learning/tic-tac-toe-endgame) WAS REMOVED
 - [tf.keras.optimizers.Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
 - [tf.keras.layers.Dense](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
 - [Tensorflow Playground](https://playground.tensorflow.org)
