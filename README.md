@@ -6,11 +6,56 @@
 
 This lab will let you practice performing neural network analysis. It will also introduce you additional concepts in neural network analysis and Tensorflow. You will be introduced to a web tool called [Tensorflow Playground](http://playground.tensorflow.org) with which you can play with and learn about the hyperparameters of Tensorflow.
 
+## Prerequisites
+
+Before starting this lab, make sure you have the following installed:
+
+- Python 3.7 or higher
+- Jupyter Notebook or JupyterLab
+- pip (Python package manager)
+
+## Installation
+
+Install the required Python packages by running:
+
+**For macOS with Apple Silicon (M1/M2/M3):**
+```bash
+pip install tensorflow-macos tensorflow-metal pandas numpy scikit-learn matplotlib seaborn
+```
+
+**For other systems (Windows, Linux, Intel Mac):**
+```bash
+pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
+```
+
+> **Note:** The notebook automatically detects your system and installs the correct TensorFlow version.
+
+Alternatively, if you're using a virtual environment (recommended):
+
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate it
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Install dependencies (choose based on your system)
+# For Apple Silicon Mac:
+pip install tensorflow-macos tensorflow-metal pandas numpy scikit-learn matplotlib seaborn
+# For other systems:
+pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
+```
+
 ## Getting Started
 
-<!-- Complete Challenge 1, 2, and Bonus (optional) in order. Follow the instructions and add your code and explanations as necessary. -->
-
-Complete Challenge 1 and 2. Follow the instructions and add your code and explanations as necessary.
+1. Ensure all dependencies are installed (see Installation section above)
+2. Navigate to the `your-code` directory
+3. Open `challenge-1.ipynb` in Jupyter Notebook
+4. Run cells sequentially from top to bottom
+5. Complete Challenge 1 and 2 following the instructions in the notebooks
 
 ## Deliverables
 
