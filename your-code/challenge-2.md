@@ -26,3 +26,5 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+Exercise 2 screenshot achieving loss approx 0.2:
+![alt text](image.png)
