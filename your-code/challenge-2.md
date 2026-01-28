@@ -18,11 +18,15 @@ Finally, using what you have learned, try tuning the hyperparameters for the spi
 
 After you're done, submit a screenshot of your Playground including the following information:
 
-* Epoch
-* Learning rate
-* Activation function
-* Features included
-* Hidden layers and neurons
-* Test and training loss
+Image:
+https://drive.google.com/file/d/19-TGCwsI9eeD8x7dmnkQVHnbiRbt7og9/view?usp=sharing
+
+
+* Epoch: 000.169
+* Learning rate: 001
+* Activation function: relu
+* Features included: first four
+* Hidden layers and neurons: 2 layers (4, 3) neurons
+* Test and training loss: 0.050, 0.046
 
 **Do not google for the end solution!**
