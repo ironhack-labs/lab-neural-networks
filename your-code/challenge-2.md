@@ -26,3 +26,12 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+![img.png](img.png)
+
+* Epoch: 15,419
+* Learning Rate: 0.01
+* Activation: ReLU
+* Features: X₁, X₂ (nur 2 aktiviert)
+* Hidden Layers: 2 (je 8 Neuronen)
+* Test Loss: 0.016 / Training Loss: 0.009
