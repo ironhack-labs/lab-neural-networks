@@ -26,3 +26,4 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+![alt text](<Screenshot 2026-04-13 at 16.48.00.png>)
