@@ -25,4 +25,5 @@ After you're done, submit a screenshot of your Playground including the followin
 * Hidden layers and neurons
 * Test and training loss
 
+![alt text](image.png)
 **Do not google for the end solution!**
