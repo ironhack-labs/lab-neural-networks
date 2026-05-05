@@ -14,7 +14,7 @@ After that, complete [this exercise](https://developers.google.com/machine-learn
 
 Finally, using what you have learned, try tuning the hyperparameters for the spiral dataset in order to reach training and test loss <0.05 as shown in the following:
 
-![spiral output](challenge-2.png)
+
 
 After you're done, submit a screenshot of your Playground including the following information:
 
@@ -26,3 +26,5 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+solution:
+![spiral output](challenge-2.png)
