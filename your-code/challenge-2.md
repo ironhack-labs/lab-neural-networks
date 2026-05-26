@@ -26,3 +26,21 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+
+## My result
+
+![Challenge_2_solved](challenge_2_solved.jpg)
+
+### Final configuration
+
+- Dataset: Spiral
+- Epoch: 464
+- Learning rate: 0.03
+- Activation function: Tanh
+- Regularization: None
+- Regularization rate: 0
+- Features included: X1, X2, X1², X2², X1X2, sin(X1), sin(X2)
+- Hidden layers and neurons: 4 hidden layers — 8, 8, 6, 4 neurons
+- Training loss: 0.005
+- Test loss: 0.014
