@@ -28,4 +28,4 @@ After you're done, submit a screenshot of your Playground including the followin
 **Do not google for the end solution!**
 
 Link to the screenshot submitted by me:
-![alt text](image.png)
+![alt text](challenge-2-screenshot.png)
