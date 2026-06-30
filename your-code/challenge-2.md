@@ -26,3 +26,7 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+For Challenge 2, I used the spiral dataset in TensorFlow Playground and tuned the hyperparameters until both the training loss and test loss were below 0.05. The final model used a learning rate of 0.03, the Tanh activation function, no regularization, and classification as the problem type.
+
+I included the input features X1, X2, X1², X2², X1X2, sin(X1), and sin(X2). I also used 4 hidden layers with 8 neurons in each layer. After 95 epochs, the model reached a training loss of 0.009 and a test loss of 0.027.
