@@ -26,3 +26,12 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+## Solution for Challenge 2
+
+* **Epoch:** > 300
+* **Learning rate:** 0.03
+* **Activation function:** ReLU (or Tanh)
+* **Features included:** X1, X2, X1^2, X2^2, X1*X2, sin(X1), sin(X2)
+* **Hidden layers and neurons:** 3 hidden layers (e.g., 8, 8, 4 neurons respectively)
+* **Test and training loss:** Both < 0.05
