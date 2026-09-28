@@ -26,3 +26,17 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+## My Playground Result
+
+![TensorFlow Playground result](challenge-2-result.png)
+
+* Dataset: Spiral (classification), noise 0, 50% training data
+* Features: X1 and X2
+* Activation: ReLU
+* Learning rate: 0.03
+* Hidden layers: 4 layers with 8 neurons each
+* Batch size: 10
+* Epoch: 200
+* Training loss: 0.013
+* Test loss: 0.018
