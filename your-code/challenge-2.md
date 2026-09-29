@@ -26,3 +26,31 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+
+MY ANSWER!!!!
+# Challenge 2 - Tensorflow Hyperparameter Tuning
+ 
+Dataset: Spiral
+ 
+Configuration:
+ 
+- Epoch: 500
+- Learning Rate: 0.03
+- Activation Function: Tanh
+- Hidden Layers: 4
+- Neurons per Layer: 8
+- Features:
+- X1
+- X2
+- X1²
+- X2²
+- X1X2
+- sin(X1)
+- sin(X2)
+ 
+Results:
+ 
+- Training Loss: 0.005
+- Test Loss: 0.001
+ 
+The model successfully achieved training and test loss below 0.05. I added the screenshot here in a sub file titled "TensorFlow Hyperparameter Test_Lab Challange 2"
