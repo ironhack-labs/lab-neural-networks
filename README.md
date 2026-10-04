@@ -10,7 +10,7 @@ This lab will let you practice performing neural network analysis. It will also 
 
 <!-- Complete Challenge 1, 2, and Bonus (optional) in order. Follow the instructions and add your code and explanations as necessary. -->
 
-Complete Challenge 1 and 2. Follow the instructions and add your code and explanations as necessary.
+Complete Challenge 1 and 2. Follow the instructions and add your code and explanations as necessary. Challenge 1 ends with an optional bonus.
 
 ## Deliverables
 
@@ -25,12 +25,11 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 ## Resources
 
 - [Tic Tac Toe on Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
-- [Tic Tac Toe Endgame Dataset](https://datahub.io/machine-learning/tic-tac-toe-endgame)
-- [tf.keras.optimizers.Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
-- [tf.keras.layers.Dense](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+- [Tic Tac Toe Endgame Dataset (UCI)](https://archive.ics.uci.edu/dataset/101/tic+tac+toe+endgame)
+- [keras.optimizers.Adam](https://keras.io/api/optimizers/adam/)
+- [keras.layers.Dense](https://keras.io/api/layers/core_layers/dense/)
 - [Tensorflow Playground](https://playground.tensorflow.org)
 - [Understanding Deep Learning with TensorFlow playground](https://medium.com/@andrewt3000/understanding-tensorflow-playground-c20cdb7a250b)
-- [Neural Networks: Playground Exercises](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises)
+- [Neural Networks: Interactive Exercises](https://developers.google.com/machine-learning/crash-course/neural-networks/interactive-exercises)
 - [Tensorflow Playground GitHub Repo](https://github.com/tensorflow/playground)
 - [How to pick the best learning rate for your machine learning project](https://medium.com/octavian-ai/which-optimizer-and-learning-rate-should-i-use-for-deep-learning-5acb418f9b2)
-- [Intro to Neural Nets Exercise by Google](https://colab.research.google.com/notebooks/mlcc/intro_to_neural_nets.ipynb)
