@@ -18,6 +18,8 @@ Finally, using what you have learned, try tuning the hyperparameters for the spi
 
 After you're done, submit a screenshot of your Playground including the following information:
 
+
+
 * Epoch
 * Learning rate
 * Activation function
